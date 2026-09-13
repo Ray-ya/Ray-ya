@@ -2,7 +2,7 @@
 
 # ⚡ Ray Hsieh (Ray-ya)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+System+Architect;NCU+Information+Management+Grad+Student;Full-Stack+%7C+Cloud+Native+%7C+AI+Workflows;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=IT+Software+Engineer+%26+System+Architect;NCU+Information+Management+Graduate;Full-Stack+%7C+Cloud+Native+%7C+AI+Workflows;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:globalize931@gmail.com"><img src="https://img.shields.io/badge/Email-globalize931%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -17,17 +17,17 @@
 ### 👨‍💻 About Me
 
 ```typescript
-const developer = {
+const engineer = {
   name: "Ray Hsieh",
-  title: "IT Software Engineer & Graduate Student",
-  location: "Taiwan",
-  passion: ["Modern Web Architecture", "Cloud Native Infrastructure", "Applied AI"],
-  philosophy: [
+  handle: "Ray-ya",
+  roles: ["IT Software Engineer", "System Architect", "Graduate Researcher"],
+  focusAreas: ["Enterprise Architecture", "Cloud-Native Systems", "Modern Web", "AI Automation"],
+  engineeringPhilosophy: [
     "Evidence Before Claims",
     "Red-Green-Refactor Testing",
     "Root Cause Analysis Over Quick Hacks"
   ],
-  currentFocus: "Building high-performance corporate portals & autonomous AI tooling"
+  currentMission: "Architecting zero-trust control portals & resilient cloud systems"
 };
 ```
 
@@ -37,7 +37,7 @@ const developer = {
 
 <table>
   <tr>
-    <td width="20%" align="center"><b>Frontend</b></td>
+    <td width="22%" align="center"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -48,7 +48,7 @@ const developer = {
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Backend</b></td>
+    <td width="22%" align="center"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -58,7 +58,7 @@ const developer = {
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>DevOps & Cloud</b></td>
+    <td width="22%" align="center"><b>DevOps & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -68,7 +68,7 @@ const developer = {
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Architecture</b></td>
+    <td width="22%" align="center"><b>Architecture</b></td>
     <td>
       <img src="https://img.shields.io/badge/RBAC%20Security-7C3AED?style=flat-square&logo=auth0&logoColor=white" />
       <img src="https://img.shields.io/badge/JIT%20Privilege-DC2626?style=flat-square&logo=shield&logoColor=white" />
@@ -80,15 +80,16 @@ const developer = {
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Profile Summary
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ray-ya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ray's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Ray-ya&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ray-ya&theme=tokyonight" alt="Ray's GitHub Profile Details" />
+  <img src="https://streak-stats.demolab.com/?user=Ray-ya&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ray-ya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<div align="center" style="margin-top: 12px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ray-ya&theme=tokyonight" alt="Ray's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ray-ya&theme=tokyonight" alt="Repos Per Language" />
 </div>
 
 ---
@@ -102,5 +103,5 @@ const developer = {
 ---
 
 <div align="center">
-  <sub>⚡ Engineered with rigor & passion by <b>Ray Hsieh</b> · Updated dynamically via GitHub Actions 🚀</sub>
+  <sub>⚡ Engineered with rigor & passion by <b>Ray Hsieh</b> · Continuously updated via GitHub Actions 🚀</sub>
 </div>
